@@ -7,5 +7,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Adrian and Richard's Technologies
 description: The home of the Remora eCom and other slot car projects
-show_downloads: true
+show_downloads: false
 google_analytics: G-6REDR6GS29

@@ -2,3 +2,10 @@ domain: www.aart.dev       # if you want to force HTTPS, specify the domain with
 url: https://www.aart.dev  # the base hostname and protocol for your site, e.g. http://example.com
 # baseurl: /REPOSITORY-NAME/     place folder name if the site is served in a subfolder
 theme: jekyll-theme-minimal
+remote_theme: pages-themes/modernist@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Adrian and Richard's Technologies
+description: The home of the Remora eCom and other slot car projects
+show_downloads: true
+google_analytics: G-6REDR6GS29

@@ -6,7 +6,7 @@ It'll also be the place where we'll list some other things we've been working on
 
 ### The Remora1
 
-The is the world's best eCom. It beats the competition hands down by being the fastest, cheapest, most robust, and most flexible eCom you can buy. It can commutate all motors ranging in performance from 2,000Kv up to 18,000Kv. The same board can do it all. If you are using a high Kv motors (say 10,000Kv and above) you will need to make a simple configuration change.
+The is the world's best eCom. It beats the competition hands down by being the fastest, cheapest, most robust, and most flexible eCom you can buy. It can commutate all motors ranging in performance from 2,000Kv up to 22,000Kv+. The same board can do it all. If you are using a high Kv motors (say 10,000Kv and above) you might need to make a simple configuration change to increse the timing advance - but that's not hard because [there's plenty of help](https://github.com/adrianblakey/slot-car-ecom/wiki/Getting-Started).
 
 The best place to learn all about it is on the [github WiKi.](https://github.com/adrianblakey/slot-car-ecom/wiki)
 

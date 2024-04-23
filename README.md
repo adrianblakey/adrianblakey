@@ -1,10 +1,10 @@
-## Welcome to Adrian (Arseny) and Richard's Technologies
+# Welcome to Adrian (Arseny) and Richard's Technologies
 
 This is the home of the Remora1 slot car eComm, a brushless motor electronic commutator. The little electronic gizmo that you need to run a brushless slot car motor.
 
 It'll also be the place where we'll list some other things we've been working on.
 
-### The Remora1
+## The Remora1
 
 The is the world's best eCom. It beats the competition hands down by being the fastest, cheapest, most robust, and most flexible eCom you can buy. It can commutate all motors ranging in performance from 2,000Kv up to 22,000Kv+. The same board can do it all. If you are using a high Kv motors (say 10,000Kv and above) you might need to make a simple configuration change to increse the timing advance - but that's not hard because [there's plenty of help](https://github.com/adrianblakey/slot-car-ecom/wiki/Getting-Started).
 
@@ -21,8 +21,9 @@ The ***WiFi Link*** - fully flashed with the latest firmware. This allows you to
 ### Retail Pricing
 
 Remora1 - US pricing $50, UK pricing £40, EU pricing €46   
-WiFi - US pricing $18, UK pricing £14, EU €16  
-Micellaneous parts: replacement cable, crocodile clip, small enclosure for the WiFi Link, a 3D printed eCom board carrier - ask.   
+WiFi Link - US pricing $18, UK pricing £14, EU €16   
+WiFi Link enclosure - US $5, UK £3, EU €4   
+Micellaneous parts: replacement cable, crocodile clip, a 3D printed eCom board carrier - ask.   
 
 ### Ordering
 

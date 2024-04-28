@@ -33,6 +33,7 @@ If you would like to order any of these parts, please send us email to: [Sales](
   Your email address (if it's different form the one you're send this from)    
   Your shipping address.   
   The part(s) you'd like to order, and the quantity.   
+  Your shipping preference. The parts usually fit in a Royal Mail "large letter". Special delivery is £7.35, first is £2.10 to give you an idea.
 
 ### The Process
 

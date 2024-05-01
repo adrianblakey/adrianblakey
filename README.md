@@ -30,7 +30,7 @@ WiFi Link enclosure - US $5, UK £3, EU €4
 
 Replacement WiFi link cable. US $2.50, UK £1.50, EU €2  
 
-Replacement WiFi link Adapter. US $6, UK £4, EU €5 <img src="/assets/images/aart-adapter.jpg" style="width: 35vw; min-width: 200;"> 
+Replacement WiFi link Adapter for an ESP32 S2 mini. US $6, UK £4, EU €5 <img src="/assets/images/aart-adapter.jpg" style="width: 35vw; min-width: 200;"> 
 
 Replacement Crocodile clip. US $1.25, UK £.80, EU €1 <img src="/assets/images/croc.jpg" style="width: 35vw; min-width: 200px;">  
 

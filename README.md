@@ -21,13 +21,17 @@ The ***WiFi Link*** - fully flashed with the latest firmware. This allows you to
 ### Retail Pricing
 
 Remora1 - US pricing $50, UK pricing £40, EU pricing €46 <img src="/assets/images/remora1-top.jpg" style="width: 35vw; min-width: 200px;"> <img src="/assets/images/remora1-bot.jpg" style="width: 35vw; min-width: 200px;"> 
-WiFi Link - US pricing $18, UK pricing £14, EU €16   
-WiFi Link enclosure - US $5, UK £3, EU €4   
-Micellaneous parts:   
 
-Replacement WiFi link cable.   
-WiFi link Adapter <img src="/assets/images/aart-adapter.jpg" style="width: 35vw; min-width: 200;"> 
-Crocodile clip <img src="/assets/images/croc.jpg" style="width: 35vw; min-width: 200px;">   
+WiFi Link - US pricing $18, UK pricing £14, EU €16 
+
+WiFi Link enclosure - US $5, UK £3, EU €4     
+
+Replacement WiFi link cable. US $2.50, UK £1.50, EU €2  
+
+WiFi link Adapter. US $6, UK £4, EU €5 <img src="/assets/images/aart-adapter.jpg" style="width: 35vw; min-width: 200;"> 
+
+Crocodile clip. US $1.25, UK £.80, EU €1 <img src="/assets/images/croc.jpg" style="width: 35vw; min-width: 200px;">  
+
 3D printed eCom board carrier - ask.    
 
 ### Ordering

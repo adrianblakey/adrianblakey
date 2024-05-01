@@ -26,6 +26,7 @@ WiFi Link enclosure - US $5, UK £3, EU €4
 Micellaneous parts:   
 
 Replacement WiFi link cable.   
+WiFi link Adapter <img src="/assets/images/aart-adapter.jpg" style="width: 55vw; min-width: 330px;"> 
 Crocodile clip <img src="/assets/images/croc.jpg" style="width: 55vw; min-width: 330px;">   
 3D printed eCom board carrier - ask.    
 

@@ -20,7 +20,7 @@ The ***WiFi Link*** - fully flashed with the latest firmware. This allows you to
 
 ### Retail Pricing
 
-Remora1 - US pricing $50, UK pricing £40, EU pricing €46 <img src="/assets/images/remora1-top.jpg" style="width: 35vw; min-width: 200px;"> 
+Remora1 - US pricing $50, UK pricing £40, EU pricing €46 <img src="/assets/images/remora1-top.jpg" style="width: 35vw; min-width: 200px;"> <img src="/assets/images/remora1-bot.jpg" style="width: 35vw; min-width: 200px;"> 
 WiFi Link - US pricing $18, UK pricing £14, EU €16   
 WiFi Link enclosure - US $5, UK £3, EU €4   
 Micellaneous parts:   

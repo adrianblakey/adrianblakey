@@ -25,9 +25,9 @@ WiFi Link - US pricing $18, UK pricing £14, EU €16
 WiFi Link enclosure - US $5, UK £3, EU €4   
 Micellaneous parts:   
 
-    Replacement WiFi link cable.   
-    Crocodile clip <img src="/assets/images/croc.jpg" style="width: 55vw; min-width: 330px;">   
-    3D printed eCom board carrier - ask.    
+Replacement WiFi link cable.   
+Crocodile clip <img src="/assets/images/croc.jpg" style="width: 55vw; min-width: 330px;">   
+3D printed eCom board carrier - ask.    
 
 ### Ordering
 

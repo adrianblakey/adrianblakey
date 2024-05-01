@@ -1,4 +1,4 @@
-![croc](https://github.com/adrianblakey/adrianblakey/assets/170166/eeeec9ec-aac6-4017-ba0c-2bae439786b2)# Welcome to Adrian (Arseny) and Richard's Technologies
+# Welcome to Adrian (Arseny) and Richard's Technologies
 
 This is the home of the Remora1 slot car eComm, a brushless motor electronic commutator. The little electronic gizmo that you need to run a brushless slot car motor.
 

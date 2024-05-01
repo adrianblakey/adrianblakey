@@ -44,15 +44,15 @@ If you would like to order any of these parts, please send us email to: [Sales](
   Your email address (if it's different form the one you're send this from)    
   Your shipping address.   
   The part(s) you'd like to order, and the quantity.   
-  Your shipping preference. The parts usually fit in a Royal Mail "large letter". Special delivery is £7.35, first is £2.10 to give you an idea.
+  Your shipping preference (special, first, second). The parts usually fit in a Royal Mail "large letter". Domestic special delivery is £7.35, first class is £2.10 (to give you an idea).
 
 ### The Process
 
 We'll respond to you by email with an order number, quoting a price for the parts, plus shipping and the lead time. There is a chance that we might not have enough inventory to ship you the parts immediately, if so we'll tell you what we can do, either split the shipment or wait till we have them.
 
-If you agree - then please reply affirming the order. If not tell us why you're rejecting the quote (e.g. cost, lead time etc.) we'd like to hear why you changed your mind so we can improve our service.
+If you agree - then please reply affirming the order. If not, tell us why you're rejecting the quote (e.g. cost, lead time etc.) we'd like to hear why you changed your mind so we can improve our service.
 
-If you affirm the order, we'll send you an invoice request to pay using PayPal. We ask that you send the funds - "friends and family". If you are in the UK we are able to furnish bank transfer instructions if that's easier for you.
+If you affirm the order, we'll send you an invoice request to pay either by PayPal™, or by direct debit (UK). If you elect to use PayPal™, We ask that you send the funds - "friends and family". 
 
 ### Inquiries
 

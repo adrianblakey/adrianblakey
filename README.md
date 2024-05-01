@@ -1,14 +1,16 @@
 # Welcome to Adrian (Arseny) and Richard's Technologies
 
-This is the home of the Remora1 slot car eComm, a brushless motor electronic commutator. The little electronic gizmo that you need to run a brushless slot car motor.
+This is the home of the Remora1 slot car eComm, a brushless electronic commutator. It's a little electronic gizmo that you need to run a brushless slot car motor.
 
 It'll also be the place where we'll list some other things we've been working on.
 
+If you've just got a Remora1 you might want to read the [Getting Started](https://github.com/adrianblakey/slot-car-ecom/wiki/Getting-Started).
+
 ## The Remora1
 
-The is the world's best eCom. It beats the competition hands down by being the fastest, cheapest, most robust, and most flexible eCom you can buy. It can commutate all motors ranging in performance from 2,000Kv up to 22,000Kv+. The same board can do it all. If you are using a high Kv motors (say 10,000Kv and above) you might need to make a simple configuration change to increse the timing advance - but that's not hard because [there's plenty of help](https://github.com/adrianblakey/slot-car-ecom/wiki/Getting-Started).
+The is the world's best eCom. It beats the competition hands down by being the fastest, cheapest, most robust, and most flexible eCom you can buy. It can commutate all motors ranging in performance from 2,000Kv up to 22,000Kv+. The same board can do it all. If you are using a high Kv motors (say 10,000Kv and above) you might need to make a simple configuration change to increase the timing advance - but that's not hard because [there's plenty of help](https://github.com/adrianblakey/slot-car-ecom/wiki/Getting-Started).
 
-The best place to learn all about it is on the [github WiKi.](https://github.com/adrianblakey/slot-car-ecom/wiki)
+Learn all about it is on the [github WiKi.](https://github.com/adrianblakey/slot-car-ecom/wiki)
 
 ### Purchasing One 
 

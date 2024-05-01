@@ -27,7 +27,7 @@ Micellaneous parts:
 
 Replacement WiFi link cable.   
 WiFi link Adapter <img src="/assets/images/aart-adapter.jpg" style="width: 35vw; min-width: 200;"> 
-Crocodile clip <img src="/assets/images/croc.jpg" style="width: 35vw; min-width: 3200px;">   
+Crocodile clip <img src="/assets/images/croc.jpg" style="width: 35vw; min-width: 200px;">   
 3D printed eCom board carrier - ask.    
 
 ### Ordering

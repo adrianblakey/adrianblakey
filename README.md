@@ -1,4 +1,4 @@
-# Welcome to Adrian (Arseny) and Richard's Technologies
+![croc](https://github.com/adrianblakey/adrianblakey/assets/170166/eeeec9ec-aac6-4017-ba0c-2bae439786b2)# Welcome to Adrian (Arseny) and Richard's Technologies
 
 This is the home of the Remora1 slot car eComm, a brushless motor electronic commutator. The little electronic gizmo that you need to run a brushless slot car motor.
 
@@ -24,6 +24,9 @@ Remora1 - US pricing $50, UK pricing £40, EU pricing €46
 WiFi Link - US pricing $18, UK pricing £14, EU €16   
 WiFi Link enclosure - US $5, UK £3, EU €4   
 Micellaneous parts: replacement cable, crocodile clip, a 3D printed eCom board carrier - ask.   
+
+
+<img src="/assets/images/croc.jpg">
 
 ### Ordering
 

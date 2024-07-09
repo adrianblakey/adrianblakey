@@ -8,7 +8,7 @@ If you've just got a Remora1 you might want to read the [Getting Started](https:
 
 ## The Remora1
 
-The is the world's best eCom. It beats the competition hands down by being the fastest, cheapest, most robust, and most flexible eCom you can buy. It can commutate all motors ranging in performance from 2,000K<sub>v</sub> up to 22,000K<sub>v</sub>+. The same board can do it all. If you are using a high Kv motors (say 10,000Kv and above) you might need to make a simple configuration change to increase the timing advance - but that's not hard because [there's plenty of help](https://github.com/adrianblakey/slot-car-ecom/wiki/Getting-Started).
+The is the world's best eCom. It beats the competition hands down by being the fastest, cheapest, most robust, and most flexible eCom you can buy. It can commutate all motors ranging in performance from 2,000K<sub>v</sub> up to 22,000K<sub>v</sub>+. The same board can do it all. If you are using a high K<sub>v</sub> motors (say 10,000K<sub>v</sub> and above) you might need to make a simple configuration change to increase the timing advance - but that's not hard because [there's plenty of help](https://github.com/adrianblakey/slot-car-ecom/wiki/Getting-Started).
 
 Learn all about it is on the [github WiKi.](https://github.com/adrianblakey/slot-car-ecom/wiki)
 
@@ -24,9 +24,9 @@ The ***WiFi Link*** - fully flashed with the latest firmware. This allows you to
 
 Remora1 - US pricing $50, UK pricing £40, EU pricing €46 <img src="/assets/images/remora1-bot.jpg" style="width: 35vw; min-width: 200px;"> <img src="/assets/images/remora1-top.jpg" style="width: 35vw; min-width: 200px;"> 
 
-WiFi Link - US pricing $18, UK pricing £14, EU €16 <img src="/assets/images/wifi-link.jpg" style="width: 35vw; min-width: 200px;">
+WiFi Link and enclosure - US pricing $20, UK pricing £15, EU €16 <img src="/assets/images/wifi-link.jpg" style="width: 35vw; min-width: 200px;">
 
-WiFi Link enclosure - US $5, UK £3, EU €4     
+WiFi Link enclosure - US $3, UK £1, EU €2     
 
 Replacement WiFi link cable. US $2.50, UK £1.50, EU €2  
 
@@ -41,7 +41,7 @@ Replacement Crocodile clip. US $1.25, UK £.80, EU €1 <img src="/assets/images
 If you would like to order any of these parts, please send us email to: [Sales](mailto:sales@aart.dev?subject=[Purchase please]) In the body of the email please put:
 
   Your full name.   
-  Your email address (if it's different form the one you're send this from)    
+  Your email address (if it's different from the one you're send this from)    
   Your shipping address.   
   The part(s) you'd like to order, and the quantity.   
   Your shipping preference (special, first, second). The parts usually fit in a Royal Mail "large letter". Domestic special delivery is £7.35, first class is £2.10 (to give you an idea).
@@ -57,3 +57,7 @@ If you affirm the order, we'll send you an invoice request to pay either by PayP
 ### Inquiries
 
 If you have any inquiries about anything, please [send us email](mailto:sales@aart.dev?subject=[Inquiry]) and just ask. We are happy to answer any questions. You might for example want to also give us a heads up when you might like to place an order in the future to help our planning.
+
+### Disclaimers
+
+Please be persistent in your attempts to get in touch. This is not our day job but a hobby and we might be enjoying ourselves. We believe in providing the best service possible and we will replace any parts you think are bad. If you need help in a hurry get on the ESCape32 Discord server.

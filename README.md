@@ -1,6 +1,6 @@
 # Welcome to Adrian (Arseny) and Richard's Technologies
 
-This is the home of the Remora1 slot car eComm, a brushless electronic commutator. It's a little electronic gizmo that you need to run a brushless slot car motor.
+This is the home of the Remora1 slot car eComm, a brushless electronic commutator. It's a little electronic gizmo that you need to run a brushless slot car motor. The latest files are always in the git repo.
 
 It'll also be the place where we'll list some other things we've been working on.
 

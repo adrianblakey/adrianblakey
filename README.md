@@ -8,23 +8,27 @@ What's really good about the Remora is that with a little effort you can make on
 
 If you want to read more about the Remora1 read the [Getting Started](https://github.com/adrianblakey/slot-car-ecom/wiki/Getting-Started) on the WiKi.
 
-## The 22,500K<sub>v</sub> AART Motor
+## The 22,500K<sub>v</sub> "AART" Motor
 
-We have a limited supply of very competetive motors for sale. A couple of well-known racers have used them and been successful. There are no issues commutating them with a Remora1.
+We have a limited supply of very competetive motors for sale. A couple of well-known racers have used them and been quite successful in eurosport and unlimited club racing events. There are neither issues commutating nor braking with a Remora1.
 
 <img src="/assets/images/aart-motor-sideon.jpeg" style="width: 35vw; min-width: 200px;">
 
 <img src="/assets/images/aart-motor-shaft.jpeg" style="width: 35vw; min-width: 200px;">
 
-They are 1105's 6 magnet motors with an overall diameter of 13.68mm (.5395"), and a 1.5mm shaft, with 110mm lead wires. They fit comfortably next to a 3/32" axle with 5:40 72p gearing. They are 9N6P - six magnet motors. They have 5 turns of 0.38mm wire with Delta termination. The wire diameter is 0.015” or 0.38mm which is half way between 27awg and 26awg.
+These are "1105", 6 magnet motors with an overall diameter of 13.68mm (.5395"), and a 1.5mm shaft, with 110mm lead wires. They fit comfortably next to a 3/32" axle with 5:40 72p gearing. They are 9N6P - six magnet motors. They have 5 turns of 0.38mm wire with Delta termination. The wire diameter is 0.015” or 0.38mm which is half way between 27awg and 26awg.
 
 For those of you with Ron Kiddell's motors: Ron's assessment: "Your shell size is 13.7mm outer and 12.2mm inner with 1.1mm magnet thickness. Mine is 13.9mm outer and 12.6mm inner giving a magnet thickness of 1.3mm. Your shell thickness .5 and mine .3." The stator sizes are the same.
 
+This was our working drawing. The dimensions differ because of the paint :-)
+
 <img src="/assets/images/aart-motor.png" style="width: 35vw; min-width: 200px;">
 
-They need a tiny bit of effort to install properly, namely: Either; very carefully use a dremel wheel to grind around the circlip that locates the shaft so that it clears the motor mounting bracket or: use a dremel tool to enlarge the motor bracket (probably not a good idea) or: remove the circlip and slide on a 2mm diameter washer to the motor shaft followed by a very short (~1mm) piece of aluminium tubing (K S tubing, part: KS8101 has an internal diameter of 1.67mm) to space it to the pinion.
+They need a bit of effort to install properly, namely: Either; very carefully use a dremel wheel to grind off a few thou. around the circlip that locates the shaft so that it clears the motor mounting bracket or: use a dremel tool to enlarge the motor bracket (probably not a good idea) or: remove the circlip and slide on a 2mm diameter washer to the motor shaft followed by a very short (~1mm) piece of aluminium tubing (K S tubing, part: KS8101 has an internal diameter of 1.67mm) to space it out to the back of the pinion.
 
-We can offer them at £22 each.
+We have some ideas about how to improve this design to make them even better - [want to help?](mailto:sales@aart.dev?subject=[AART Motor])
+
+We can offer them at £22/€27/$28 each.
 
 ## The Remora1
 

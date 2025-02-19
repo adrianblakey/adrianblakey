@@ -8,6 +8,18 @@ What's really good about the Remora is that with a little effort you can make on
 
 If you want to read more about the Remora1 read the [Getting Started](https://github.com/adrianblakey/slot-car-ecom/wiki/Getting-Started) on the WiKi.
 
+## The 22,500K<sub>v</sub> AART Motor
+
+We have a limited supply of very competetive motors for sale. A couple of well-known racers have used them and been successful. There are no issues commutating them with a Remora1.
+
+They are 1105's 6 magnet motors with an overall diameter of 13.68mm (.5395"), and a 1.5mm shaft. They fit comfortably next to a 3/32" axle with 5:40 72p gearing. They are 9N6P - six magnet motors. They have 5 turns of 0.38mm wire with Delta termination. The wire diameter is 0.015” or 0.38mm which is half way between 27awg and 26awg.
+
+For those of you with Ron Kiddell's motors: Ron's assessment: "Your shell size is 13.7mm outer and 12.2mm inner with 1.1mm magnet thickness. Mine is 13.9mm outer and 12.6mm inner giving a magnet thickness of 1.3mm. Your shell thickness .5 and mine .3." The stator sizes are the same.
+
+<img src="/assets/images/aart-motor.png" style="width: 35vw; min-width: 200px;">
+
+We can offer them at £22 each.
+
 ## The Remora1
 
 The is the world's best eCom. It beats the competition hands down by being the fastest, cheapest, most robust, and most flexible eCom you can buy. It can commutate all motors ranging in performance from 2,000K<sub>v</sub> up to 22,500K<sub>v</sub>+. The same board can do it all. 

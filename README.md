@@ -59,7 +59,9 @@ If you would like to order any of these parts, please send us email to: [Sales](
   Your phone number.   
   Your shipping address.   
   The part(s) you'd like to order, and the quantity.   
-  Your shipping preference (special, first, second, tracked, signed). The parts usually fit in a Royal Mail "large letter". Domestic special delivery is £7.35, first class is £2.10 (to give you an idea).
+  Your shipping preference (special, first, second, tracked, signed). 
+  
+  Note: The parts usually fit in a Royal Mail "large letter". Domestic special delivery is ~£7.35, first class is ~£2.10 (to give you an idea).
 
 Perhaps needless to say, we do not sell your information.
 

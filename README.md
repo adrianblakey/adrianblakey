@@ -1,28 +1,42 @@
 # Welcome to Adrian (Arseny) and Richard's Technologies
 
-This is the home of the Remora1 slot car eComm, a brushless electronic commutator. It's a little electronic gizmo that you need to run a brushless slot car motor. The latest files are always in the git repo.
+This is the home of the Remora Electronic Commutators (eCom) for slot car brushless motors. This will also be the place where we'll list some other things we've been working on.
 
-It'll also be the place where we'll list some other things we've been working on.
+eCom's are little electronic gizmos that you need to run a brushless motor in a slot car. 
 
-If you've just got a Remora1 you might want to read the [Getting Started](https://github.com/adrianblakey/slot-car-ecom/wiki/Getting-Started).
+What's really good about the Remora is that with a little effort you can make on yourself if you don't want to buy one.
+
+If you want to read more about the Remora1 read the [Getting Started](https://github.com/adrianblakey/slot-car-ecom/wiki/Getting-Started) on the WiKi.
 
 ## The Remora1
 
-The is the world's best eCom. It beats the competition hands down by being the fastest, cheapest, most robust, and most flexible eCom you can buy. It can commutate all motors ranging in performance from 2,000K<sub>v</sub> up to 22,000K<sub>v</sub>+. The same board can do it all. If you are using a high K<sub>v</sub> motors (say 10,000K<sub>v</sub> and above) you might need to make a simple configuration change to increase the timing advance - but that's not hard because [there's plenty of help](https://github.com/adrianblakey/slot-car-ecom/wiki/Getting-Started).
+The is the world's best eCom. It beats the competition hands down by being the fastest, cheapest, most robust, and most flexible eCom you can buy. It can commutate all motors ranging in performance from 2,000K<sub>v</sub> up to 22,500K<sub>v</sub>+. The same board can do it all. 
 
-Learn all about it is on the [github WiKi.](https://github.com/adrianblakey/slot-car-ecom/wiki)
+If you are using a high K<sub>v</sub> motors (say 10,000K<sub>v</sub> and above) you might need to make a couple of simple configuration changes - but that's not hard because [there's plenty of help](https://github.com/adrianblakey/slot-car-ecom/wiki/Getting-Started) on the WiKi.
+
+All the information you might want is on the [github WiKi.](https://github.com/adrianblakey/slot-car-ecom/wiki)
+
+### The Hardware
+
+The hardware design is open source. You'll find all of it in this [git hub repo](https://github.com/adrianblakey/slot-car-ecom).
+
+The schematic and board design were all done using [KiCad](https://github.com/adrianblakey/slot-car-ecom).
+
+### The Software
+
+The board needs firmware to run. The solution we use an open source product called [ESCape32](https://github.com/adrianblakey/slot-car-ecom). This is exceptional code designed to run a variety of Electronic Speed Controllers very efficiently. It's actively maintained and there's always a [current release](https://github.com/neoxic/ESCape32/releases) for the Remora.
 
 ### Purchasing One 
 
 We sell:  
 
-The ***Remora1*** - the first version of the eCom - fully flashed with the latest version of the ESCape32 binary. This will work right out of the box. Solder on the lead and motor wires and off you go.   
+The ***Remora1.2*** - this is the latest revision of the board. It's a slight improvement over the first release by by using better Field Effect Transistors(fets) and manufactuered on a thinner (.8mm) board with more expensive gold metal plated contacts. It's supplied flashed with the latest version of the ESCape32 binary. This will work right out of the box. Solder on the leads and motor wires and off you go.   
 
-The ***WiFi Link*** - fully flashed with the latest firmware. This allows you to set all the parameters of an eCom. This comes with a small cable to attach it to the Remora1 and a bent crocodile clip that you'll find useful for extracting the connector from the eCom. You'll only ever need one of these.  
+The ***WiFi Link*** - fully flashed with the latest 1.2 firmware. This allows you to set all the parameters of an eCom. This comes with a small cable to attach it to the Remora1 and a bent crocodile clip that you'll find useful for extracting the connector from the eCom. You'll only ever need one of these.  
 
 ### Retail Pricing
 
-Remora1 - US pricing $50, UK pricing £40, EU pricing €46 <img src="/assets/images/remora1-bot.jpg" style="width: 35vw; min-width: 200px;"> <img src="/assets/images/remora1-top.jpg" style="width: 35vw; min-width: 200px;"> 
+Remora1.2 - US pricing $40, UK pricing £30, EU pricing €35 <img src="/assets/images/1-top.jpeg" style="width: 35vw; min-width: 200px;"> <img src="/assets/images/1-bot.jpg" style="width: 35vw; min-width: 200px;"> 
 
 WiFi Link and enclosure - US pricing $20, UK pricing £15, EU €16 <img src="/assets/images/wifi-link.jpg" style="width: 35vw; min-width: 200px;">
 

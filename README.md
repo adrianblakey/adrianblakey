@@ -14,7 +14,7 @@ We are close to being able to announce the Remora/g - a single-sided Remora. We 
 
 ## The 22,500K<sub>v</sub> "AART" Motor
 
-We have a limited supply of very competetive motors for sale. A couple of well-known racers have used them and been quite successful in eurosport and unlimited club racing events. They run and brake well with a Remora1. We owe a lot of thanks to Martin Ellis for help with the design.
+We have a limited supply of very competetive motors for sale. A couple of well-known racers have used them and been quite successful in eurosport and unlimited club racing events. They run and brake well with a Remora1. We owe a lot of thanks to Martin Ellis for design and guidance, and help from Tomi Pahula, Ron Kiddell and Mark Harrison. There's also support from several other people in the community who have chimed in from all over the globe - you guys rock!
 
 <img src="/assets/images/aart-motor-sideon.jpeg" style="width: 35vw; min-width: 200px;">
 
@@ -30,7 +30,7 @@ This was our working drawing. The dimensions differ because of the paint :-)
 
 They need a bit of effort to install properly, namely: Either; very carefully use a dremel wheel to grind off a few thou. around the circlip that locates the shaft so that it clears the motor mounting bracket or: use a dremel tool to enlarge the motor bracket (probably not a good idea) or: remove the circlip and slide on a 2mm diameter washer to the motor shaft followed by a very short (~1mm) piece of aluminium tubing (K S tubing, part: KS8101 has an internal diameter of 1.67mm) to space it out to the back of the pinion.
 
-We have some ideas about how to improve this design to make them even better - [want to help?](mailto:sales@aart.dev?subject=[AART Motor])
+We have some ideas about how to improve this design to make them even better - [want to help?](mailto:sales@aart.dev?subject=[AART Motor]) 
 
 We can offer them at £22/€27/$28 each.
 

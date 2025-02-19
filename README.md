@@ -10,7 +10,7 @@ If you want to read more about the Remora1 read the [Getting Started](https://gi
 
 ## The 22,500K<sub>v</sub> "AART" Motor
 
-We have a limited supply of very competetive motors for sale. A couple of well-known racers have used them and been quite successful in eurosport and unlimited club racing events. They run and brake well with a Remora1. We owe a lot of thanks to Martin Ellis for help in the design.
+We have a limited supply of very competetive motors for sale. A couple of well-known racers have used them and been quite successful in eurosport and unlimited club racing events. They run and brake well with a Remora1. We owe a lot of thanks to Martin Ellis for help with the design.
 
 <img src="/assets/images/aart-motor-sideon.jpeg" style="width: 35vw; min-width: 200px;">
 

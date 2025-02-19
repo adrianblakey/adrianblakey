@@ -4,7 +4,7 @@ This is the home of the Remora Electronic Commutators (eCom) for slot car brushl
 
 eCom's are little electronic gizmos that you need to run a brushless motor in a slot car. 
 
-What's really good about the Remora is that with a little effort you can make on yourself if you don't want to buy one.
+What's really good about the Remora is that with a little effort you can make one yourself if you don't want to buy one.
 
 If you want to read more about the Remora1 read the [Getting Started](https://github.com/adrianblakey/slot-car-ecom/wiki/Getting-Started) on the WiKi.
 
@@ -12,7 +12,7 @@ If you want to read more about the Remora1 read the [Getting Started](https://gi
 
 The is the world's best eCom. It beats the competition hands down by being the fastest, cheapest, most robust, and most flexible eCom you can buy. It can commutate all motors ranging in performance from 2,000K<sub>v</sub> up to 22,500K<sub>v</sub>+. The same board can do it all. 
 
-If you are using a high K<sub>v</sub> motors (say 10,000K<sub>v</sub> and above) you might need to make a couple of simple configuration changes - but that's not hard because [there's plenty of help](https://github.com/adrianblakey/slot-car-ecom/wiki/Getting-Started) on the WiKi.
+If you are using a high K<sub>v</sub> motors (say 17,000K<sub>v</sub> and above) you might need to make a couple of simple configuration changes - but that's not hard because [there's plenty of help](https://github.com/adrianblakey/slot-car-ecom/wiki/Getting-Started) on the WiKi.
 
 All the information you might want is on the [github WiKi.](https://github.com/adrianblakey/slot-car-ecom/wiki)
 
@@ -20,11 +20,11 @@ All the information you might want is on the [github WiKi.](https://github.com/a
 
 The hardware design is open source. You'll find all of it in this [git hub repo](https://github.com/adrianblakey/slot-car-ecom).
 
-The schematic and board design were all done using [KiCad](https://github.com/adrianblakey/slot-car-ecom).
+The schematic and board design were all done using [KiCad](https://github.com/adrianblakey/slot-car-ecom) and the production files are all in the repo.
 
 ### The Software
 
-The board needs firmware to run. The solution we use an open source product called [ESCape32](https://github.com/adrianblakey/slot-car-ecom). This is exceptional code designed to run a variety of Electronic Speed Controllers very efficiently. It's actively maintained and there's always a [current release](https://github.com/neoxic/ESCape32/releases) for the Remora.
+The board needs firmware to run. We use an open source product called [ESCape32](https://github.com/adrianblakey/slot-car-ecom). This is exceptional code designed to run a variety of Electronic Speed Controllers very efficiently. It's actively maintained and there's always a [current release](https://github.com/neoxic/ESCape32/releases) for the Remora.
 
 ### Purchasing One 
 
@@ -38,13 +38,13 @@ The ***WiFi Link*** - fully flashed with the latest 1.2 firmware. This allows yo
 
 Remora1.2 - US pricing $40, UK pricing £30, EU pricing €35 <img src="/assets/images/1-top.jpeg" style="width: 35vw; min-width: 200px;"> <img src="/assets/images/1-bot.jpg" style="width: 35vw; min-width: 200px;"> 
 
-WiFi Link and enclosure - US pricing $20, UK pricing £15, EU €16 <img src="/assets/images/wifi-link.jpg" style="width: 35vw; min-width: 200px;">
+WiFi Link (with enclosure, wire and clip) - US pricing $22, UK pricing £17, EU €20 <img src="/assets/images/wifi-link.jpg" style="width: 35vw; min-width: 200px;">
 
-WiFi Link enclosure - US $3, UK £1, EU €2     
+Replacement WiFi Link enclosure - US $3, UK £1.50, EU €2     
 
-Replacement WiFi link cable. US $2.50, UK £1.50, EU €2  
+Replacement WiFi link cable (check the WiKi for a better suply). US $2.50, UK £1.50, EU €2  
 
-Replacement WiFi link Adapter for an ESP32 S2 mini. US $6, UK £4, EU €5 <img src="/assets/images/aart-adapter.jpg" style="width: 35vw; min-width: 200;"> 
+Replacement WiFi link Adapter for an ESP32 S2 mini. US $8, UK £5, EU €6 <img src="/assets/images/aart-adapter.jpg" style="width: 35vw; min-width: 200;"> 
 
 Replacement Crocodile clip. US $1.25, UK £.80, EU €1 <img src="/assets/images/croc.jpg" style="width: 35vw; min-width: 200px;">  
 
@@ -55,10 +55,13 @@ Replacement Crocodile clip. US $1.25, UK £.80, EU €1 <img src="/assets/images
 If you would like to order any of these parts, please send us email to: [Sales](mailto:sales@aart.dev?subject=[Purchase please]) In the body of the email please put:
 
   Your full name.   
-  Your email address (if it's different from the one you're send this from)    
+  Your email address (if it's different from the one you're send this from).    
+  Your phone number.   
   Your shipping address.   
   The part(s) you'd like to order, and the quantity.   
-  Your shipping preference (special, first, second). The parts usually fit in a Royal Mail "large letter". Domestic special delivery is £7.35, first class is £2.10 (to give you an idea).
+  Your shipping preference (special, first, second, tracked, signed). The parts usually fit in a Royal Mail "large letter". Domestic special delivery is £7.35, first class is £2.10 (to give you an idea).
+
+Perhaps needless to say, we do not sell your information.
 
 ### The Process
 
@@ -74,4 +77,4 @@ If you have any inquiries about anything, please [send us email](mailto:sales@aa
 
 ### Disclaimers
 
-Please be persistent in your attempts to get in touch. This is not our day job but a hobby and we might be enjoying ourselves. We believe in providing the best service possible and we will replace any parts you think are bad. If you need help in a hurry get on the ESCape32 Discord server.
+Please be persistent in your attempts to get in touch. This is not our day job but a hobby and we might be enjoying ourselves. We believe in providing the best service possible and we will replace any parts you think are bad. If you need help in a hurry get on the [ESCape32 Discord server, slot car channel](https://discord.com/channels/1103745257046278144/1151565789984469144).

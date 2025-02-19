@@ -8,6 +8,10 @@ What's really good about the Remora is that with a little effort you can make on
 
 If you want to read more about the Remora1 read the [Getting Started](https://github.com/adrianblakey/slot-car-ecom/wiki/Getting-Started) on the WiKi.
 
+## "All the news that's (not) fit to print"
+
+We are close to being able to announce the Remora/g - a single-sided Remora. We have working, flashed parts made and tested in abeyance of putting a couple in chassis for "drivability" testing.
+
 ## The 22,500K<sub>v</sub> "AART" Motor
 
 We have a limited supply of very competetive motors for sale. A couple of well-known racers have used them and been quite successful in eurosport and unlimited club racing events. They run and brake well with a Remora1. We owe a lot of thanks to Martin Ellis for help with the design.

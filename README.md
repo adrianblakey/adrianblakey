@@ -56,9 +56,9 @@ The board needs firmware to run. We use an open source product called [ESCape32]
 
 We sell:  
 
-The ***Remora1.2*** - this is the latest revision of the board. It's a slight improvement over the first release by using better Field Effect Transistors(fets) and manufactured on a thinner (.8mm) board with more expensive gold metal plated contacts. It's supplied flashed with the latest version of the ESCape32 binary. This will work right out of the box. Solder on the leads and motor wires and off you go.   
+The ***Remora1.2*** - this is the latest revision of the board flashed. It's a slight improvement over the first release by using better Field Effect Transistors(fets) and manufactured on a thinner (.8mm) board with more expensive gold metal plated contacts. It's supplied flashed with the latest version of the ESCape32 binary. This will work right out of the box. Solder on the leads and motor wires and off you go.   
 
-The ***WiFi Link*** - fully flashed with the latest 1.2 firmware. This allows you to set all the parameters of an eCom. This comes with a small cable to attach it to the Remora1 and a bent crocodile clip that you'll find useful for extracting the connector from the eCom. You'll only ever need one of these.  
+The ***WiFi Link*** - fully flashed with the latest 1.3 firmware. This allows you to set all the parameters of an eCom. This comes with a small cable to attach it to the Remora1 and a bent crocodile clip that you'll find useful for extracting the connector from the eCom. You'll only ever need one of these.  
 
 ### Retail Pricing
 

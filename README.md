@@ -64,11 +64,11 @@ The ***WiFi Link*** - fully flashed with the latest 1.3 firmware. This allows yo
 
 Remora1.2 - US pricing $40, UK pricing £30, EU pricing €35 <img src="/assets/images/1-top.jpeg" style="width: 35vw; min-width: 200px;"> <img src="/assets/images/1-bot.jpeg" style="width: 35vw; min-width: 200px;"> 
 
-WiFi Link (with enclosure, wire and clip) - US pricing $22, UK pricing £17, EU €20 <img src="/assets/images/wifi-link.jpg" style="width: 35vw; min-width: 200px;">
+WiFi Link (with enclosure, wire and clip) - US pricing $22, UK pricing £18, EU €20 <img src="/assets/images/wifi-link.jpg" style="width: 35vw; min-width: 200px;">
 
 Replacement WiFi Link enclosure - US $3, UK £1.50, EU €2     
 
-Replacement WiFi link cable (check the WiKi for a better suply). US $2.50, UK £1.50, EU €2  
+Replacement WiFi link cable. We buy these at [retail in the U.K.](https://github.com/adrianblakey/slot-car-ecom/wiki/The-Connector-Cable) with VAT and shipping added, and pass them along at our cost. You might find a better deal by buying them directly from a local retailer. US $2.70, UK £1.80, EU €2.50 
 
 Replacement WiFi link Adapter for an ESP32 S2 mini. US $8, UK £5, EU €6 <img src="/assets/images/aart-adapter.jpg" style="width: 35vw; min-width: 200;"> 
 

@@ -10,7 +10,7 @@ If you want to read more about the Remora1 read the [Getting Started](https://gi
 
 ## "All the news that's (not) fit to print"
 
-We are close to being able to announce the Remora/g - a single-sided Remora. We have working, flashed parts made and tested in abeyance of putting a couple in chassis for "drivability" testing.
+We are close to being able to announce the Remora/g - a single-sided Remora. We have working, flashed parts made and tested in abeyance of putting a couple in chassis for "drivability" testing. This is taking a bit longer than planned in order to improve the reverse protection circuit design.
 
 ## The 22,500K<sub>v</sub> "AART" Motor
 
@@ -56,23 +56,23 @@ The board needs firmware to run. We use an open source product called [ESCape32]
 
 We sell:  
 
-The ***Remora1.2*** - this is the latest revision of the board flashed. It's a slight improvement over the first release by using better Field Effect Transistors(fets) and manufactured on a thinner (.8mm) board with more expensive gold metal plated contacts. It's supplied flashed with the latest version of the ESCape32 binary. This will work right out of the box. Solder on the leads and motor wires and off you go.   
+The ***Remora1.2*** - this is the latest revision of the board flashed. It's a slight improvement over the first release by using better Field Effect Transistors (fets) and manufactured on a thinner (.8mm) board with more expensive gold metal plated contacts. It's supplied flashed with the latest version of the ESCape32 binary. This will work right out of the box. Solder on the leads and motor wires and off you go.   
 
-The ***WiFi Link*** - fully flashed with the latest 1.3 firmware. This allows you to set all the parameters of an eCom. This comes with a small cable to attach it to the Remora1 and a bent crocodile clip that you'll find useful for extracting the connector from the eCom. You'll only ever need one of these.  
+The ***WiFi Link*** - fully flashed with the latest 1.4 firmware. This allows you to set all the parameters of an eCom. This comes with a small cable to attach it to the Remora1 and a bent crocodile clip that you'll find useful for extracting the connector from the eCom. You'll only ever need one of these.  
 
 ### Retail Pricing
 
 Remora1.2 - US pricing $40, UK pricing £30, EU pricing €35 <img src="/assets/images/1-top.jpeg" style="width: 35vw; min-width: 200px;"> <img src="/assets/images/1-bot.jpeg" style="width: 35vw; min-width: 200px;"> 
 
-WiFi Link (with enclosure, wire and clip) - US pricing $22, UK pricing £18, EU €20 <img src="/assets/images/wifi-link.jpg" style="width: 35vw; min-width: 200px;">
+WiFi Link (with enclosure, wire and clip) - US pricing $24, UK pricing £18, EU €20 <img src="/assets/images/wifi-link.jpg" style="width: 35vw; min-width: 200px;">
 
 Replacement WiFi Link enclosure - US $3, UK £1.50, EU €2     
 
-Replacement WiFi link cable. We buy these at [retail in the U.K.](https://github.com/adrianblakey/slot-car-ecom/wiki/The-Connector-Cable) with VAT and shipping added, and pass them along at our cost. You might find a better deal by buying them directly from a local retailer. US $2.70, UK £1.80, EU €2.50 
+Replacement WiFi link cable. We buy these at [retail in the U.K.](https://github.com/adrianblakey/slot-car-ecom/wiki/The-Connector-Cable) with VAT and shipping added, and pass them along at our cost. You might find a better deal by buying them directly from a local retailer. US $3.00, UK £1.80, EU €2.50 
 
-Replacement WiFi link Adapter for an ESP32 S2 mini. US $8, UK £5, EU €6 <img src="/assets/images/aart-adapter.jpg" style="width: 35vw; min-width: 200;"> 
+Replacement WiFi link Adapter for an ESP32 S2 mini. US $9, UK £5, EU €6 <img src="/assets/images/aart-adapter.jpg" style="width: 35vw; min-width: 200;"> 
 
-Replacement Crocodile clip. US $1.25, UK £.80, EU €1 <img src="/assets/images/croc.jpg" style="width: 35vw; min-width: 200px;">  
+Replacement Crocodile clip. US $1.50, UK £.80, EU €1 <img src="/assets/images/croc.jpg" style="width: 35vw; min-width: 200px;">  
 
 3D-printed Remora1 board carrier - ask.    
 
@@ -81,7 +81,7 @@ Replacement Crocodile clip. US $1.25, UK £.80, EU €1 <img src="/assets/images
 If you would like to order any of these parts, please send us email to: [Sales](mailto:sales@aart.dev?subject=[Purchase please]) In the body of the email please put:
 
   Your full name.   
-  Your email address (if it's different from the one you're send this from).    
+  Your email address (if it's different from the one you're sending this from).    
   Your phone number.   
   Your shipping address.   
   The part(s) you'd like to order, and the quantity.   
@@ -97,7 +97,7 @@ We'll respond to you by email with an order number, quoting a price for the part
 
 If you agree - then please reply affirming the order. If not, tell us why you're rejecting the quote (e.g. cost, lead time etc.) we'd like to hear why you changed your mind so we can improve our service.
 
-If you affirm the order, we'll send you an invoice request to pay either by PayPal™, or by direct debit (UK). If you elect to use PayPal™, We ask that you send the funds - "friends and family". 
+If you affirm the order, we'll send you an invoice request to pay either by PayPal™ (worldwide), or by direct debit (UK) or Zelle (US). If you elect to use PayPal™, We ask that you send the funds - "friends and family". Tell us when you've paid.
 
 ### Inquiries
 

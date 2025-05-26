@@ -1,16 +1,25 @@
 # Welcome to Adrian (Arseny) and Richard's Technologies
 
-This is the home of the Remora Electronic Commutators (eCom) for slot car brushless motors. This will also be the place where we'll list some other things we've been working on.
+This is the home of the Remora Electronic Commutators (eCom) for slot car brushless motors and some other things we've been working on.
 
 eCom's are little electronic gizmos that you need to run a brushless motor in a slot car. 
 
-What's really good about the Remora is that with a little effort you can make one yourself if you don't want to buy one.
-
-If you want to read more about the Remora1 read the [Getting Started](https://github.com/adrianblakey/slot-car-ecom/wiki/Getting-Started) on the WiKi.
+The Remora is "open" so that if you don't want to buy one, you can with a little effort make one yourself. Everything you need to do that is saved in github and it's all described in the [github wiki](https://github.com/adrianblakey/slot-car-ecom/wiki/Getting-Started).
 
 ## "All the news that's (not) fit to print"
 
-We are close to being able to announce the Remora/g - a single-sided Remora. We have working, flashed parts made and tested in abeyance of putting a couple in chassis for "drivability" testing. This is taking a bit longer than planned in order to improve the reverse protection circuit design.
+The Remora/g 1.0 is a reality. This is a single sided, 6 layer board to drive a 3,000K<sub>v</sub> spec. motor for a new British Slot Car Racing Association brushless Genesis class.
+
+We have agreed to in principle to single-source the design and lock the board to make it impossible to modify. We have a few of these that we have tested ourselves. 
+
+Ask us, if you are interested in one.
+
+## The WiFi Link "Clamp"
+
+We have for sale a few clamp circuits to allow you to safely alter a Remora while having a motor attached.
+<img src="/assets/images/clamp.jpg" style="width: 35vw; min-width: 200px;">
+
+We can offer them at £5/€7/$9 each.
 
 ## The 22,500K<sub>v</sub> "AART" Motor
 

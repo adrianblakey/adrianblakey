@@ -6,20 +6,24 @@ eCom's are little electronic gizmos that you need to run a brushless motor in a 
 
 The Remora is "open" so that if you don't want to buy one, you can with a little effort make one yourself. Everything you need to do that is saved in github and it's all described in the [github wiki](https://github.com/adrianblakey/slot-car-ecom/wiki/Getting-Started).
 
-## "All the news that's (not) fit to print"
+## The Remora 2 - a single-sided Remora 1.2
 
-The Remora/g 1.0 is a reality. This is a single sided, 6 layer board to drive a 3,000K<sub>v</sub> spec. motor for a new British Slot Car Racing Association brushless Genesis class.
+We are very close to being able to offer a single-sided Remora, we are calling the Remora 2. The circuit design is an innovation of the Remora 1 with some updates learnt from the Remora g. The design will be available on request. Hobbyists and non-commercial users can obtain it without charge, others wishing to make and resell it will need to negotiate a small license fee.
 
-We have agreed to in principle to single-source the design and lock the board to make it impossible to modify. We have a few of these that we have tested ourselves. 
+## A Brushless Genesis Board
 
-Ask us, if you are interested in one.
+The Remora/g 1.0 is a single sided, 6 layer board to drive a 3,000K<sub>v</sub> spec. motor for a new [British Slot Car Racing Association](https://slotcarracing.org.uk/) brushless Genesis class.
+
+We have agreed to single-source the design from MidAmerica and lock the board to make it impossible to modify. The testing has gone well and MidAmerica are close to announcing them as their own branded product.
 
 ## The WiFi Link "Clamp"
 
-We have for sale a few clamp circuits to allow you to safely alter a Remora while having a motor attached.
+We have a few clamp circuits for sale to allow you to safely alter a Remora while having a motor attached.
 <img src="/assets/images/clamp.jpg" style="width: 35vw; min-width: 200px;">
 
-We can offer them at £5/€7/$9 each.
+We can offer them at £5/€7/$9 each. [Email us to purchase](mailto:wifilink_sales@aart.dev?subject=[Clamp Purchase])
+
+If you want to make them yourself, there are [KiCad files in github](https://github.com/adrianblakey/slot-car-ecom/tree/main/OVclampKiCad).
 
 ## The 22,500K<sub>v</sub> "AART" Motor
 
